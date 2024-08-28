@@ -1,0 +1,142 @@
+[
+  {
+    "name": "AboutUs",
+    "path": "/AboutUs",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/AboutUs.vue",
+    "chunkName": "pages/AboutUs",
+    "_name": "_498b5752"
+  },
+  {
+    "name": "Attributes",
+    "path": "/Attributes",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Attributes.vue",
+    "chunkName": "pages/Attributes",
+    "_name": "_65cc9a40"
+  },
+  {
+    "name": "Chat",
+    "path": "/Chat",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Chat.vue",
+    "chunkName": "pages/Chat",
+    "_name": "_06709d21"
+  },
+  {
+    "name": "ContactUs",
+    "path": "/ContactUs",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/ContactUs.vue",
+    "chunkName": "pages/ContactUs",
+    "_name": "_1f556436"
+  },
+  {
+    "name": "Detail",
+    "path": "/Detail",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Detail.vue",
+    "chunkName": "pages/Detail",
+    "_name": "_de4a154c"
+  },
+  {
+    "name": "Detail copy",
+    "path": "/Detail%20copy",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Detail copy.vue",
+    "chunkName": "pages/Detail copy",
+    "_name": "_c214b3aa"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Login.vue",
+    "chunkName": "pages/Login",
+    "_name": "_03386870"
+  },
+  {
+    "name": "Logindetails",
+    "path": "/Logindetails",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Logindetails.vue",
+    "chunkName": "pages/Logindetails",
+    "_name": "_718189fc"
+  },
+  {
+    "name": "Packag",
+    "path": "/Packag",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Packag.vue",
+    "chunkName": "pages/Packag",
+    "_name": "_5f50bbf0"
+  },
+  {
+    "name": "Post",
+    "path": "/Post",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Post.vue",
+    "chunkName": "pages/Post",
+    "_name": "_443a832e"
+  },
+  {
+    "name": "Privacypolicy",
+    "path": "/Privacypolicy",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Privacypolicy.vue",
+    "chunkName": "pages/Privacypolicy",
+    "_name": "_7dc00c41"
+  },
+  {
+    "name": "ProductDetails",
+    "path": "/ProductDetails",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/ProductDetails.vue",
+    "chunkName": "pages/ProductDetails",
+    "_name": "_1ce9ad5c"
+  },
+  {
+    "name": "Profile",
+    "path": "/Profile",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Profile.vue",
+    "chunkName": "pages/Profile",
+    "_name": "_11ece2f0"
+  },
+  {
+    "name": "Termsandconditions",
+    "path": "/Termsandconditions",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Termsandconditions.vue",
+    "chunkName": "pages/Termsandconditions",
+    "_name": "_754ab1b1"
+  },
+  {
+    "name": "Details-id",
+    "path": "/Details/:id?",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Details/_id.vue",
+    "chunkName": "pages/Details/_id",
+    "_name": "_3beaf834"
+  },
+  {
+    "name": "Packages-id",
+    "path": "/Packages/:id?",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Packages/_id.vue",
+    "chunkName": "pages/Packages/_id",
+    "_name": "_1e8f0e61"
+  },
+  {
+    "name": "ProfileEdit-id",
+    "path": "/ProfileEdit/:id?",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/ProfileEdit/_id.vue",
+    "chunkName": "pages/ProfileEdit/_id",
+    "_name": "_9bdd3676"
+  },
+  {
+    "name": "Attribute-name-id",
+    "path": "/Attribute/:name?/:id?",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Attribute/_name/_id.vue",
+    "chunkName": "pages/Attribute/_name/_id",
+    "_name": "_06886029"
+  },
+  {
+    "name": "Product-name-subname-id",
+    "path": "/Product/:name?/:subname?/:id?",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/Product/_name/_subname/_id.vue",
+    "chunkName": "pages/Product/_name/_subname/_id",
+    "_name": "_26460965"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/karkiyem/Documents/selby/selbyweb/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7bc2b50e"
+  }
+]

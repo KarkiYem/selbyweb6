@@ -1,0 +1,38 @@
+{
+  "name": "haaku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@mdi/js": "^7.2.96",
+    "cookieparser": "^0.1.0",
+    "element-ui": "^2.15.13",
+    "file-loader": "^6.2.0",
+    "firebase": "^9.9.4",
+    "js-cookie": "^3.0.1",
+    "mdi-icons": "^1.0.1",
+    "mdi-vue": "^3.0.13",
+    "pocketbase": "^0.18.0",
+    "nuxt": "v2.16.3",
+    "swiper": "^11.0.5",
+    "typed.js": "^2.1.0",
+    "vue-carousel": "^0.18.0",
+    "vue-owl-carousel": "^2.0.3",
+    "vue-slick-carousel": "^1.0.6",
+    "vuex": "^3.1.2",
+    "vuex-persistedstate": "^2.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.15.8",
+    "babel-plugin-component": "1.1.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
